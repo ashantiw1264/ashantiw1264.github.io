@@ -13,7 +13,7 @@ white=rectangle(100,100,"solid", "black")
 yellow=rectangle(200,100,"solid", "yellow")
   
 
-test=place-image(100,100,yellow)
+test=place-image(100,100,yellow)im a dumbass
 rest=place-image(test,200,100,white)
 flag=place-image(test,100,100,rest)
 
