@@ -4,26 +4,26 @@ title: "Flag Project - Final Submission"
 date: 2018-12-21
 ---
 
-## Flag of _insert your country_ by _insert your name_
+flag of jamaica 
 
-## Describe your program
+so my program is to make a square with a black background of 2:3 and then make two green triangle 1/6 of the background and the finaly make two vertical yellow sripes so it as the finishing touch.   
 
--   What country did you design for? _then delete this instruction_
--   What grade do you expect? _then delete this instruction_
+-   What country did you design for? jamaica
+-   What grade do you expect? a 60 or 70%
+because i have alot or time to do this and i did not use my time wisely.
 
-<!--- Delete this comment and add your writing -->
+the flags steps
 
-## Current output
-
--   Insert an image that your program currently produces. _then delete this instruction_
 
 * * *
 ![Flag](/images/final-flag.png)
 * * *
+include image 
+rr=rectangle(200,300,"solid","black")
+bb=triangle(125,150,"solid","green")
+cc=rectangle(115,125,"solid","yellow")
 
-## Describe your process.
-
--   What questions, strategies, help from peers or teacher, or thinking got you to this point? _then delete this instruction_
+how 3..
 
 <!--- Delete this comment and add your writing -->
 
